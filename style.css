@@ -1,0 +1,44 @@
+#home {
+  height: 90vh;
+}
+.name {
+  font-weight: bold;
+  color: antiquewhite;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman',
+    serif;
+}
+
+#home .lead {
+  color: antiquewhite;
+  font-weight: bold;
+}
+
+#about {
+  padding: 10%;
+  position: relative;
+}
+
+.about-title {
+  margin: 20px;
+}
+
+#skill {
+  padding: 5%;
+  position: relative;
+}
+
+.skill-title {
+  margin-bottom: 40px;
+}
+
+.projek-item {
+  margin: 0 10px 0;
+}
+#project {
+  padding: 5%;
+  position: relative;
+}
+
+.project-title {
+  margin-bottom: 20px;
+}
